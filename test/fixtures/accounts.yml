@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  email: MyString
+  username: MyString
+  role: 1
+  type_of_auth: 1
+  avatar_link: MyText
+  first_name: MyString
+  last_name: MyString
+  dob: 2012-12-18 14:35:21
+  sex: 1
+  mail_service: 1
+  classification: 1
+  publish_history: 1
+  reset_password_link: MyText
+  password_digest: MyText
+  disable_account: 1
+
+two:
+  email: MyString
+  username: MyString
+  role: 1
+  type_of_auth: 1
+  avatar_link: MyText
+  first_name: MyString
+  last_name: MyString
+  dob: 2012-12-18 14:35:21
+  sex: 1
+  mail_service: 1
+  classification: 1
+  publish_history: 1
+  reset_password_link: MyText
+  password_digest: MyText
+  disable_account: 1

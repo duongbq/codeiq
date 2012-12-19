@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  mark_point: MyString
+  description: MyText
+
+two:
+  mark_point: MyString
+  description: MyText

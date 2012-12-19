@@ -1,0 +1,14 @@
+class Answer < ActiveRecord::Base
+  attr_accessible :account_id,
+  :answer_type,
+  :question_id,
+  :tried_time
+
+  belongs_to :account
+  belongs_to :question
+
+  has_one :mark
+  has_one :answer_input
+  has_one :answer_upload
+
+end

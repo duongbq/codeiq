@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  expected_salary: 1
+  company_size: 1
+  change_job_priority: 1
+
+two:
+  expected_salary: 1
+  company_size: 1
+  change_job_priority: 1

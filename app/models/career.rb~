@@ -1,0 +1,11 @@
+class Career < ActiveRecord::Base
+  attr_accessible
+  :account_id,
+  :from_date,
+  :job_title,
+  :tenure,
+  :to_date,
+  :type_of_work
+
+  belongs_to :account
+end

@@ -1,0 +1,1 @@
+<%= link_to image_tag("login_images/facebook_1.jpg"),"auth/facebook" %>

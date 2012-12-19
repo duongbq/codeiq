@@ -1,0 +1,10 @@
+class Advertisement < ActiveRecord::Base
+  attr_accessible
+  :ads_name,
+  :ads_url,
+  :expiry_date,
+  :upload_file_id
+
+  belongs_to :upload_file
+
+end
